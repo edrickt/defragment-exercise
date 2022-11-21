@@ -5,4 +5,5 @@ Given a directory tree, traverse the tree and using threads and mutexes, write t
 
 ## Compilation and Usage
 COMPILATION: cc -g -std=gnu11 -Werror -Wall -o defrag defrag.c -lpthread
+
 USAGE: ./defrag inputdirectory outputfile.mp3\n
